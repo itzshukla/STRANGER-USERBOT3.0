@@ -6,7 +6,7 @@ if not hndlr:
   hndlr = "."
 
 help_text = f"""
-**Help menu of SpamX!**
+**Help menu of OP Spam!**
 
 Functions/Modules available ⬇️
 
@@ -24,7 +24,7 @@ spam_text = f"""
 Available commands and there Usage ⬇️
 
 •) {hndlr}spam [counts] [message] 
-•) {hndlr}delayspam [delay in secs.] [Counts] [message]
+•) {hndlr}delayspam [delay in sec] [Counts] [message]
 •) {hndlr}pornspam [counts]
 •) {hndlr}hange [counts]
 •) {hndlr}uspam [message]
