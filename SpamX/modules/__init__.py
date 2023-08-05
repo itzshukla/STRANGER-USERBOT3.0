@@ -9,7 +9,7 @@ __version__ = __version__
 
 
 ping_msg = PING_MSG if PING_MSG else "🇨Ⓞ𝗗𝜩🇽"
-pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/89f23433043a4bfa255c3.jpg"
+pic = ALIVE_PIC if ALIVE_PIC else "https://graph.org/file/fd6932a2f2c9ff0ac02a9.jpg"
 amsg = ALIVE_MSG if ALIVE_MSG else "𝐎𝐏 ѕραм - by 𝗖ⓞ𝗗៩𝗫"
 
 try:
