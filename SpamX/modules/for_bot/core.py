@@ -36,7 +36,7 @@ async def ping_me(_, e: Message):
         await e.delete()    
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"⌾ {ping_msg} ⌾ \n\n ➪ 𝗣ɨɳɠ `{ms}` ᴍs \n ➪ 𝗨թƬɨмє:`{uptime}` \n ➪ ⩔єяនɨ០ɳ: `{__version__}`")
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝗣ɨɳɠ `{ms}` ᴍs \n ➪ 𝗨թƬɨмє:`{uptime}` \n ➪ ⩔єяនɨ០ɳ: `{__version__}`")
 
 
 
