@@ -24,7 +24,7 @@ async def ping(_, e: Message):
       pong_msg = await e.reply("**Pong !!**")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"⌾ {ping_msg} ⌾ \n\n ༝ ᴘɪɴɢ: `{ms}` ᴍs \n ༝ ᴜᴘᴛɪᴍᴇ: `{uptime}` \n ༝ ᴠᴇʀsɪᴏɴ: `{__version__}`")
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝗣ɨɳɠ: `{ms}` ᴍs \n ➪ 𝗨թƬɨмє: `{uptime}` \n ➪ ⩔єяនɨ០ɳ: `{__version__}`")
       
 @Client.on_message(filters.me & filters.command(["ping"], prefixes=handler))
 async def ping_me(_, e: Message):       
@@ -37,7 +37,7 @@ async def ping_me(_, e: Message):
         await e.delete()    
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"⌾ {ping_msg} ⌾ \n\n ༝ ᴘɪɴɢ: `{ms}` ᴍs \n ༝ ᴜᴘᴛɪᴍᴇ: `{uptime}` \n ༝ ᴠᴇʀsɪᴏɴ: `{__version__}`")
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝗣ɨɳɠ: `{ms}` ᴍs \n ➪ 𝗨թƬɨмє: `{uptime}` \n ➪ ⩔єяនɨ០ɳ: `{__version__}`")
 
 
 @Client.on_message(filters.user(Owner) & filters.command(["getvars", "getvar"], prefixes=handler))
