@@ -22,9 +22,9 @@ class Alive:
      Pic = pic
      
      msg = f"""
-**☆ 𝗖ⓞ𝗗៩𝗫 ☆**
+**[☆𝗖ⓞ𝗗៩𝗫☆](https://t.me/@UNIQUE_KING_475)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
-➪ **𝗠คѕƬєя::** [☆𝗖ⓞ𝗗៩𝗫☆](https://t.me/@UNIQUE_KING_475)
+➪ **𝗠คѕƬєя:** ☆𝗖ⓞ𝗗៩𝗫☆
 ➪ **𝗣ƴƬнοи ⩔єяនɨ០ɳ:** `{platform.python_version()}`
 ➪ **𝗖ⓞ𝗗៩𝗫 ⩔єяនɨ០ɳ:** `{__version__}`
 ➪ **𝗣ƴяο ⩔єяនɨ០ɳ:** `{pyro_vr}`
