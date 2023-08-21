@@ -35,8 +35,8 @@
         },        
         "SUDO_USERS": {  
               "description": "Sudo users id space by space or leave blank",  
-              "value": "6123932615",  
-              "required": true  
+              "value": "",  
+              "required": false  
           },  
         "OWNER_ID": {  
               "description": "Sudo users id space by space",  
