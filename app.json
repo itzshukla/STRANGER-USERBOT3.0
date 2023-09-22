@@ -20,7 +20,7 @@
         },  
         "ALIVE_PIC": {  
           "description": "your alive pic or video",  
-          "value": "https://graph.org/file/ca3a9c2d3d1fe5c48b55b.jpg",  
+          "value": "https://graph.org/file/8818c5e9470d2c6920a97.jpg",  
           "required": false  
         },  
         "API_HASH": {  
