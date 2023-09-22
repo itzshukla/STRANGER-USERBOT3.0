@@ -29,8 +29,4 @@
   
    - Bᴏᴛ Usᴇʀɴᴀᴍᴇ - @SessionStringGeneratorRobot   
   
-   ━━━━━━━━━━━━━━━━━━━━━━  
-    <h3>Credits</h3>   
-  
-     - <b> [RiZoeL](https://github.com/MrRizoel) : Dev/creator of SpamX </b>    
-     - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX
+   ━━━━━━━━━━━━━━━━━━━━━━ 
