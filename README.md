@@ -25,8 +25,8 @@
   
    # Pʏʀᴏɢʀᴀᴍ (V1.4) Sᴇssɪᴏɴ Sᴛʀɪɴɢ   
   
-   - [BᴏᴛLɪɴᴋ](https://t.me/SessionStringGeneratorRobot)   
+   - [BᴏᴛLɪɴᴋ](https://t.me/CDX_STRING_GEN_BOT)   
   
-   - Bᴏᴛ Usᴇʀɴᴀᴍᴇ - @SessionStringGeneratorRobot   
+   - Bᴏᴛ Usᴇʀɴᴀᴍᴇ - @CDX_STRING_GEN_BOT   
   
    ━━━━━━━━━━━━━━━━━━━━━━ 
