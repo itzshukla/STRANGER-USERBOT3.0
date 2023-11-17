@@ -1,5 +1,5 @@
 """
-   © RiZoeLX 
+   © stranger 
    SpamX - Telegram Bots
 """
 
