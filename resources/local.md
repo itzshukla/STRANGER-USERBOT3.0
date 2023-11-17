@@ -11,7 +11,7 @@
 <br>
 × <i> Check below icon/image </i>
 
-<p><a href="https://youtu.be/yC9z3kYKIgU"><img src="https://telegra.ph//file/022296de189ff726a4f1e.jpg" width="200""/></a></p>
+<p><a href="https://youtu.be/yC9z3kYKIgU"><img src="https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg" width="200""/></a></p>
 
 </details>
 
@@ -34,7 +34,7 @@ sudo apt install screen
 <b>3) clone repo and open dictionary </b>
 
 ```python
-git clone https://github.com/RiZoeLX/SpamX && cd SpamX
+git clone https://github.com/itzshukla/STRANGER-USERBOT3.0
 ```
 
 <b>4) Install requirements </b>
