@@ -1,4 +1,4 @@
-""" RiZoeLX 2022 © SpamX """
+""" 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗦𝗣𝗔𝗠 """
 
 import os, sys, io, random
 from io import StringIO
