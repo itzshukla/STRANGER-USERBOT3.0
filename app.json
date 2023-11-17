@@ -1,7 +1,7 @@
 {  
-        "name": "☆ 🇨Ⓞ𝗗𝜩🇽 ☆",  
+        "name": "☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆",  
         "description": "A Pyrogram Based Spam Bots With Many Cmds Fast And Stable",  
-        "logo": "https://graph.org/file/fd6932a2f2c9ff0ac02a9.jpg",  
+        "logo": "https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg",  
         "keywords": [  
           "telegram",  
           "PYROGRAM",  
@@ -9,9 +9,9 @@
           "SpamX",  
           "RiZoeLX"  
         ],     
-    "repository": "https://github.com/MrHacker5575/CoDeX-U-Bot2.4",  
-    "website": "https://github.com/RiZoeLX",  
-    "success_url": "https://t.me/RiZoeLX",  
+    "repository": "https://github.com/itzshukla/STRANGER-USERBOT3.0",  
+    "website": "https://github.com/itzshukla",  
+    "success_url": "https://t.me/mastiwithfriendsx",  
     "env": {  
                "API_ID": {  
           "description": "Fill Api ID Take this value from My.telegram.org",  
@@ -20,7 +20,7 @@
         },  
         "ALIVE_PIC": {  
           "description": "your alive pic or video",  
-          "value": "https://graph.org/file/8818c5e9470d2c6920a97.jpg",  
+          "value": "https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg",  
           "required": false  
         },  
         "API_HASH": {  
