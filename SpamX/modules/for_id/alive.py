@@ -106,8 +106,8 @@ async def SpamX_(SpamX: Client, message: Message):
        spamx_reply += f"**Total Sudos:** `{users_db.sudo_count()}` \n"
        spamx_reply += f"**Total Gbanned users:** `{gban_db.gban_count()}` \n"
     spamx_reply += "<=======================> \n\n"
-    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://github.com/RiZoeLX/SpamX) \n\n"
-    spamx_reply += "**© @RiZoeLX** || Support: @DNHxHELL"
+    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://github.com/itzshukla/STRANGER-USERBOT3.0) \n\n"
+    spamx_reply += "**© @mastiwithfriendsx** || Support: @mastiwithfriendsx"
     
     try:
        await info.edit_text(spamx_reply, disable_web_page_preview=True)
