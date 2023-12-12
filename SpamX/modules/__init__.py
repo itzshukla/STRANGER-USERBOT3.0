@@ -25,7 +25,7 @@ class Alive:
       **[☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆](https://t.me/mastiwithfriendsx)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
 
-➪ **ᴍᴀsᴛᴇʀ:** [☆𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛☆](https://t.me/ITSZ_SHIVANSH)
+➪ **𝗠ᴀsᴛᴇʀ:** [☆𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛☆](https://t.me/ITSZ_SHIVANSH)
 
 ➪ **𝗣ʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:**`{platform.python_version()}`
 
