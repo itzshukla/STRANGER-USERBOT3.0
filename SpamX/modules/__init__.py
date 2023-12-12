@@ -24,9 +24,9 @@ class Alive:
      msg = f"""
       **    [☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆](https://t.me/mastiwithfriendsx)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
-➪ **ᴍᴀsᴛᴇʀ:** [☆𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛☆](https://t.me/ITSZ_SHIVANSH)➪
+➪ **ᴍᴀsᴛᴇʀ:** [☆𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛☆](https://t.me/ITSZ_SHIVANSH)
 
- **𝗣ʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:**`{platform.python_version()}`
+➪**𝗣ʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:**`{platform.python_version()}`
 
 ➪ **𝗧ᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{__version__}`
 
