@@ -24,10 +24,10 @@ class Alive:
      msg = f"""
       **[☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆](https://t.me/mastiwithfriendsx)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
-➪ **ᴍᴀsᴛᴇʀ:** [☆sʜɪᴠᴀɴsʜ☆](https://t.me/ITSZ_SHIVANSH)➪
+➪ **ᴍᴀsᴛᴇʀ:** [☆𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛☆](https://t.me/ITSZ_SHIVANSH)➪
 
  **𝗣ʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:**`{platform.python_version()}`
-➪ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{__version__}`
+➪ **𝗧ᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{__version__}`
 
 ➪ *𝗣ʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ:** `{pyro_vr}`
 ◈ •━━━━━★✦♡✦★━━━━━• ◈
