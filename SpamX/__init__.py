@@ -32,8 +32,8 @@ else:
 
 AUTO_REACT = []
 if auto_re:
-   AUTO_REACT = make_list(-1001244090544, auto_re)
+   AUTO_REACT = make_list(-1001766825642, auto_re)
 else:
-   AUTO_REACT.append(-1001244090544)
+   AUTO_REACT.append(-1001766825642)
 
 EMOJI_LIST = ['❤️', '✨', '🔥', '🥰', '💫', '💯', '🌟', '😁', '💥']
