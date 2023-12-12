@@ -22,15 +22,16 @@ class Alive:
      Pic = pic
      
      msg = f"""
-      **    [☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆](https://t.me/mastiwithfriendsx)
+      **[☆𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥☆](https://t.me/mastiwithfriendsx)
 ◈ •━━━━━★✦♡✦★━━━━━• ◈ 
+
 ➪ **ᴍᴀsᴛᴇʀ:** [☆𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛☆](https://t.me/ITSZ_SHIVANSH)
 
-➪**𝗣ʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:**`{platform.python_version()}`
+➪ **𝗣ʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:**`{platform.python_version()}`
 
 ➪ **𝗧ᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{__version__}`
 
-➪ *𝗣ʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ:** `{pyro_vr}`
+➪ **𝗣ʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ:** `{pyro_vr}`
 ◈ •━━━━━★✦♡✦★━━━━━• ◈
      """
 
