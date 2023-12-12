@@ -15,7 +15,7 @@
     "env": {  
                "API_ID": {  
           "description": "Fill Api ID Take this value from My.telegram.org",  
-          "value": "",  
+          "value": "29308061",  
           "required": true  
         },  
         "ALIVE_PIC": {  
@@ -25,7 +25,7 @@
         },  
         "API_HASH": {  
           "description": "Fill Api hash Take this value from My.telegram.org",  
-          "value": "",  
+          "value": "462de3dfc98fd938ef9c6ee31a72d099",  
           "required": true  
         },  
         "CLIENT": {  
@@ -35,7 +35,7 @@
         },        
         "SUDO_USERS": {  
               "description": "Sudo users id space by space or leave blank",  
-              "value": "6123932615 1690209622",  
+              "value": "6919199044 6762113050",  
               "required": false  
           },  
         "OWNER_ID": {  
@@ -45,7 +45,7 @@
           },  
         "LOGS_CHANNEL": {  
               "description": "Logs Group ID (Make A Private Group And Add Your All Spam id Their)",  
-              "value": "",  
+              "value": "-1001766825642",  
               "required": false  
           },  
         "HNDLR": {  
