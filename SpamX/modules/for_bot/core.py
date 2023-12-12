@@ -1,6 +1,6 @@
 """
      SpamX - Telegram Bots
-     © RiZoeLX - 2022-2023
+     © SHIVANSH39 - 2022-2023
 """
 import os, sys, asyncio, datetime, time, subprocess 
 from .. import handler, Owner, Sudos, ping_msg, __version__
@@ -23,7 +23,7 @@ async def ping(_, e: Message):
       pong_msg = await e.reply("**Pong !!**")
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝗣ɨɳɠ: `{ms}` ᴍs \n ➪ 𝗨թƬɨмє: `{uptime}` \n ➪ ⩔єяនɨ០ɳ: `{__version__}`")
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝗣ɪɴɢ: `{ms}` ᴍs \n ➪ 𝗨ᴘᴛɪᴍᴇ: `{uptime}` \n ➪ 𝗩ᴇʀsɪᴏɴ: `{__version__}`")
       
 @Client.on_message(filters.me & filters.command(["ping"], prefixes=handler))
 async def ping_me(_, e: Message):       
@@ -36,14 +36,14 @@ async def ping_me(_, e: Message):
         await e.delete()    
       end = datetime.datetime.now()
       ms = (end-start).microseconds / 1000
-      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝗣ɨɳɠ: `{ms}` ᴍs \n ➪ 𝗨թƬɨмє:`{uptime}` \n ➪ ⩔єяនɨ០ɳ: `{__version__}`")
+      await pong_msg.edit_text(f"☆ {ping_msg} ☆ \n\n ➪ 𝗣ɪɴɢ: `{ms}` ᴍs \n ➪ 𝗨ᴘᴛɪᴍᴇ:`{uptime}` \n ➪𝗩ᴇʀsɪᴏɴ: `{__version__}`")
 
 
 
 @Client.on_message(filters.user(Owner) & filters.command(["getvars", "getvar"], prefixes=handler))
 @Client.on_message(filters.me & filters.command(["getvars", "getvar"], prefixes=handler))
 async def all_vars(_, message: Message):
-    await message.reply_text(f"All Variables given below 👇\n\n {Variables_text} \n\n © @RiZoeLX")
+    await message.reply_text(f"All Variables given below 👇\n\n {Variables_text} \n\n © @SHIVANSH39")
 
 @Client.on_message(filters.user(Sudos) & filters.command(["restart", "reboot"], prefixes=handler))
 @Client.on_message(filters.me & filters.command(["restart", "reboot"], prefixes=handler))
