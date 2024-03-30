@@ -5,7 +5,7 @@
   
   
          
-   [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/mastiwithfriendsx)   
+   [𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥](https://t.me/MASTIWITHFRIENDSXD)   
   
   
            ─「 𝐷𝐸𝑃𝐿𝑂𝑌 𝑂𝑁 𝐻𝐸𝑅𝑂𝐾𝑈 」─   
