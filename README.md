@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg"></a></p>   
+<p align="center"><a href="https://t.me/shiva_ansh_op"><img src="https://files.catbox.moe/r58nec.jpg"></a></p>   
   
   <h6 align="center">   
      <b>• 𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗦𝗣𝗔𝗠  </b>   
