@@ -9,7 +9,7 @@ __version__ = __version__
 
 
 ping_msg = PING_MSG if PING_MSG else "⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥⚡️"
-pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg"
+pic = ALIVE_PIC if ALIVE_PIC else "https://files.catbox.moe/r58nec.jpg"
 amsg = ALIVE_MSG if ALIVE_MSG else"⚡️𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗦𝗣𝗔𝗠⚡️"
 
 try:
